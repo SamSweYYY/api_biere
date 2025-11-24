@@ -19,7 +19,8 @@
     ],
      "related_applications": [
         {
-            "platform": "web"
+            "platform": "web",
+            "url": "https://samsweyyy.github.io/api_biere/"
         }
     ],
     "shortcuts": [
@@ -28,6 +29,18 @@
             "short_name": "Ajouter",
             "url": "./ajouter.html",
             "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot1.png",
+            "sizes": "640x480",
+            "type": "image/png"
+        },
+        {
+            "src": "screenshot2.png",
+            "sizes": "640x480",
+            "type": "image/png"
         }
     ]
 
