@@ -21,5 +21,14 @@
         {
             "platform": "web"
         }
+    ],
+    "shortcuts": [
+        {
+            "name": "Ajouter une bière",
+            "short_name": "Ajouter",
+            "url": "./ajouter.html",
+            "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+        }
     ]
+
 }
